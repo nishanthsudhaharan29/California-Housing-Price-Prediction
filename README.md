@@ -77,5 +77,4 @@ Developed and compared the performance of three machine learning models:
 
 ---
 
-## Repository Structure
 
